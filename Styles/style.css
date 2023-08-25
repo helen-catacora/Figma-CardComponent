@@ -29,6 +29,7 @@ body{
     margin: 0 auto;
     position: relative;
     top: -55px;
+    border: 6px solid #fff;
 }
 
 .card h2{
